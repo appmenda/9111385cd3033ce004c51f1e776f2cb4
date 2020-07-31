@@ -1,0 +1,2 @@
+# 9111385cd3033ce004c51f1e776f2cb4
+App id 9D27C-5DC57-D9F08-D701E-53633, version name - Jumia Bold
